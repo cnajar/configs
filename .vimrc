@@ -15,7 +15,6 @@ set mouse-=a
 set ttymouse=sgr
 
 "-----
-" https://realpython.com/vim-and-python-a-match-made-in-heaven/
 "-----
 set nocompatible              " required
 filetype off                  " required
