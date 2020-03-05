@@ -18,7 +18,6 @@ $ mkdir -p ~/.vim/bundle/
 $ git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 ```
 
-Editing ~/.vimrc | Bla 
----------------- | --- 
-1                | 2   
-1                | 2   
+Editing ~/.vimrc 
+---------------- 
+Ibla bla
