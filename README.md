@@ -19,5 +19,16 @@ $ git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 ```
 
 Editing ~/.vimrc 
----------------- 
-Ibla bla
+```
+" set the runtime path to include Vundle and initialize
+set rtp+=~/.vim/bundle/Vundle.vim
+call vundle#begin()
+" let Vundle manage Vundle, required
+Plugin 'gmarik/Vundle.vim'
+```
+
+Then start VIM and run:
+```
+:PluginInstall
+```
+
