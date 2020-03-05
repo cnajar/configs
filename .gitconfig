@@ -1,0 +1,11 @@
+[user]
+	name = Christophe Najar
+	email = cnajar@juniper.net
+[core]
+	editor = vi
+[core]
+	excludesfile = /Users/cnajar/.gitignore_global
+[color]
+	ui = true
+[credential]
+	helper = store
